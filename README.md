@@ -7,8 +7,9 @@
 
 
 ## YOLOR - Object Detection
-**YOLOR** 모델을 통해 **Object Detection** task를 수행한다.   
+**YOLOR** 모델을 통해 Classification 없이 **Detection**만 하는 task를 수행한다.   
 pretrain된 YOLOR 모델을 **CARPK dataset** 로 fine tuning 시키고 **COCO dataset**으로 평가한다.
+
 
 <br>
 
