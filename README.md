@@ -9,6 +9,12 @@
 ## YOLOR - Object Detection
 **YOLOR** 모델을 통해 **Object Detection** task를 수행한다.   
 pretrain된 YOLOR 모델을 **CARPK dataset** 로 fine tuning 시키고 **COCO dataset**으로 평가한다.
+
+<br>
+
+<img src = "https://user-images.githubusercontent.com/43063980/128506549-5ffd6b42-a1bd-4845-bc44-5d6a13fbcf97.png" width="80%">
+
+
 > Paper  https://arxiv.org/pdf/2105.04206.pdf  
 Github  https://github.com/WongKinYiu/yolor
 
