@@ -15,15 +15,15 @@ Github  https://github.com/WongKinYiu/yolor
 <br>
 
 
-**Dataset** : [CARPK](https://paperswithcode.com/dataset/carpk) / [COCO](https://paperswithcode.com/dataset/coco)
+- **Dataset** : [CARPK](https://paperswithcode.com/dataset/carpk) / [COCO](https://paperswithcode.com/dataset/coco)   
+- **평가방식** : COCO mAP
 
-목표
-상세내용
-
-프로젝트 상세 내용
+<br>
 
 
 
+### 목표
+- git을 통해 프로젝트 관리하기
+- COCO mAP 평가방식 공부하고 cocoeval.py 코드 확인하기
+- 학습결과와 weight 저장하기
 
-평가지표(ex. accuracy, precision, recall)
-COCO mAP 사용
