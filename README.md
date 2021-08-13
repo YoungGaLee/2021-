@@ -34,3 +34,5 @@ Github  https://github.com/WongKinYiu/yolor
 - COCO mAP 평가방식 공부하고 cocoeval.py 코드 확인하기
 - 학습결과와 weight 저장하기
 
+--------------------------------------------------------------------------------
+###  dataset 드라이브 : [링크](https://drive.google.com/drive/folders/1FbY1jUX5z-rf-KhY-NamPAXMPxUs1F_7?usp=sharing)
